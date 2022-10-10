@@ -19,7 +19,7 @@ The project was experimentation intensive and I had to track the results of seve
 ## Prototype
 I used streamlit for a prototype deployment in other to show how the model works before deployment
 
-![Alt text](./img.png?raw=true "Optional Title")
+![Alt text](./img2.png?raw=true "Optional Title")
 
 ## Deployment
 I used flask to build an API and also dockerized it for seamless deployment anywhere. I also intergrated cloud deployment using AWS Lambda
