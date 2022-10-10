@@ -1,6 +1,6 @@
 # Patients-forecast
 
-##Problem
+## Problem
 A hospital specializing in treating respiratory infections are looking to be able to efficiently manage resources efficiently, from medical utilities, medical disposables, waste, personel etc. They want to be able to plan adequately for future use helping them in their monthly planning and budgeting.
 
 ##Solution
