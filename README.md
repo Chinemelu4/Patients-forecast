@@ -14,4 +14,4 @@ Based on this findings,I built a time-series model using this features (temperat
 
 The project was experimentation intensive and I had to track the results of several experimentation techniques, from the number of suitable lags, algorithms performance and size, duration of input data etc. In other, to monitor this effectively, I used mlflow to track and monitor the artifacts and results of each experiment.
 
-![Alt text](./img.jpg?raw=true "Optional Title")
+![Alt text](./img.png?raw=true "Optional Title")
