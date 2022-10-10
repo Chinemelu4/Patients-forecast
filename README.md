@@ -15,3 +15,11 @@ Based on this findings,I built a time-series model using this features (temperat
 The project was experimentation intensive and I had to track the results of several experimentation techniques, from the number of suitable lags, algorithms performance and size, duration of input data etc. In other, to monitor this effectively, I used mlflow to track and monitor the artifacts and results of each experiment.
 
 ![Alt text](./img.png?raw=true "Optional Title")
+
+## Prototype
+I used streamlit for a prototype deployment in other to show how the model works before deployment
+
+![Alt text](./img.png?raw=true "Optional Title")
+
+## Deployment
+I used flask to build an API and also dockerized it for seamless deployment anywhere. I also intergrated cloud deployment using AWS Lambda
